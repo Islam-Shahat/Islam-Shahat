@@ -267,7 +267,7 @@ Responsive Design  ████████████████████�
 **I'm always open to interesting conversations and collaboration opportunities!**
 
 <p>
-  <a href="mailto:islamshahat2006@gmail.com">
+  <a href="mailto:eslamshahat2006@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-00ff41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
   <a href="https://www.linkedin.com/in/islam-shahat">
@@ -281,7 +281,7 @@ Responsive Design  ████████████████████�
   </a>
 </p>
 
-### 📫 Reach me at: **islamshahat2006@gmail.com**
+### 📫 Reach me at: **eslamshahat2006@gmail.com**
 
 </div>
 
